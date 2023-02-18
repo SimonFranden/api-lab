@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/api-lab/static/css/main.073c9b0a.css",
+    "main.js": "/api-lab/static/js/main.d1a30445.js",
+    "static/js/787.4d2f39cf.chunk.js": "/api-lab/static/js/787.4d2f39cf.chunk.js",
+    "static/media/logo.svg": "/api-lab/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/api-lab/index.html",
+    "main.073c9b0a.css.map": "/api-lab/static/css/main.073c9b0a.css.map",
+    "main.d1a30445.js.map": "/api-lab/static/js/main.d1a30445.js.map",
+    "787.4d2f39cf.chunk.js.map": "/api-lab/static/js/787.4d2f39cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d1a30445.js"
+  ]
+}
